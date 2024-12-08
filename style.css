@@ -17,7 +17,7 @@ body {
 
 h1 {
     text-align: center;
-    color: #444;
+    color: grey;
     margin-bottom: 20px;
 }
 
@@ -42,12 +42,12 @@ input, select, textarea, button {
 
 button {
     margin-top: 20px;
-    background-color: #007bff;
-    color: white;
+    background-color: blue;
+    color: orange;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #e6f7ff;
 }
